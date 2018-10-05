@@ -1,0 +1,28 @@
+body {
+	text-align: center;
+	background: url("IMAGES/Wolf-4K.jpg");
+	font-family: 'Libre Franklin', sans-serif;
+	padding:50px 100px;
+}
+h1   { color: red;
+}	
+
+.image1{
+	width: 300px;
+	border: 5px solid #fff78c;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px grey;
+	margin:; 
+	padding:;
+}
+.bio {
+	font-size: 24px;
+}
+.network {
+	font-size: : 24px;
+	color: green;
+	text-decoration: none;
+}
+.network:hover {
+	color: red;
+}
